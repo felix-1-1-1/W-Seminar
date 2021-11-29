@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LevelCompleted
+comment1.params=level\ points\ trys
+comment1.target=LevelCompleted(int,\ int,\ int)
+comment2.params=level\ points\ trys
+comment2.target=void\ setWorld(int,\ int,\ int)
+numComments=3

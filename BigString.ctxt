@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BigString
+comment1.params=score
+comment1.target=BigString(int)
+comment2.params=score\ size
+comment2.target=BigString(int,\ int)
+comment3.params=score\ size
+comment3.target=void\ refresh(int,\ int)
+numComments=4

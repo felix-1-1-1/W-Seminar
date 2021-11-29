@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Calculations
+comment0.text=\r\n\ Berechnung\ der\ Flugbahn\ mithilfe\ numerischer\ Loesung\r\n
+comment1.params=percision\ cwA\ masse\ Luftdichte\ Geschwindigkeit\ hoehe\ g
+comment1.target=void\ setArgument(double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=winkel
+comment2.target=double\ wurfweiteBerechnen(double)
+comment3.params=winkel
+comment3.target=void\ countSteps(double)
+comment4.params=
+comment4.target=double[]\ optimalerWinkel()
+comment5.params=z
+comment5.target=double\ runden(double)
+comment6.params=winkel\ h\ v
+comment6.target=void\ CalculateChartRelative(double,\ double,\ double)
+comment7.params=array
+comment7.target=void\ printArray(double[])
+numComments=8
